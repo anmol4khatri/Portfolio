@@ -123,7 +123,7 @@ export default function Page() {
                   Check out my latest work
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                "I’ll be sharing all the projects I've worked on shortly, stay tuned for updates!"
+                {"I’ll be sharing all the projects I've worked on shortly, stay tuned for updates!"}
                 </p>
               </div>
             </div>
@@ -138,7 +138,7 @@ export default function Page() {
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
                 <div className="inline-block rounded-lg bg-foreground text-background px-3 py-1 text-sm mb-6">
-                Ongoing projects I'm working on
+                {"Ongoing projects I'm working on"}
                 </div>
               </div>
             </div>
@@ -173,7 +173,7 @@ export default function Page() {
               </h2>
               <p className="mx-auto max-w-[600px] text-muted-foreground text-sm md:text-base lg:text-base xl:text-lg">
               
-"I am open to exploring internship opportunities and collaborations that allow me to leverage my skills while gaining valuable experience. I look forward to working with teams on innovative projects and contributing to meaningful initiatives that foster learning and professional growth."
+{"I am open to exploring internship opportunities and collaborations that allow me to leverage my skills while gaining valuable experience. I look forward to working with teams on innovative projects and contributing to meaningful initiatives that foster learning and professional growth."}
               </p>
             </div>
           </BlurFade>
